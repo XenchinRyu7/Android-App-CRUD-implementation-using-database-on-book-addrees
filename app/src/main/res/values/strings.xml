@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buku Alamat</string>
+    <string name="name">Enter Name</string>
+    <string name="adresss">Enter Address</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
